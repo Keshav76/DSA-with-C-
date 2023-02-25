@@ -1,0 +1,11 @@
+3 ways: 
+1. Public : protected and public -> protected and public respectively
+2. Private: protected and public -> Private
+3. protected: protected and public -> protected
+
+6 types:
+1. Single A -> B
+2. Multilevel A -> B -> C
+3. Multiple A -> B <- C
+4. Hybrid mixture of any two
+5. Hiearchical A -> B ; A -> C;  B -> D; B -> E; C -> F;
